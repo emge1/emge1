@@ -1,8 +1,9 @@
-# My interests:
+## My interests:
 * Python
-* DRF
-* React, CSS, HTML
+* Django stuff
 * machine learning, computer vision
+* React, CSS, HTML
+
 
 <!---
 emge1/emge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
