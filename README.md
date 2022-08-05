@@ -2,7 +2,6 @@
 * Python
 * Django stuff
 * machine learning, computer vision
-* React, CSS, HTML
 
 
 <!---
