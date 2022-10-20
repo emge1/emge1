@@ -1,7 +1,9 @@
 ## My interests:
 * Python
+* embedded systems
 * Django stuff
 * machine learning, computer vision
+
 
 
 <!---
