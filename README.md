@@ -1,7 +1,9 @@
 ## My interests:
 * Python
-* Django stuff
-* machine learning 
+* Django
+* Machine Learning
+* Java
+* Spring 
 
 
 
