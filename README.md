@@ -1,9 +1,6 @@
 ## My interests:
-* Python
-* Django
-* Machine Learning
-* Java
-* Spring 
+* Python · Django · Machine Learning · Computer Vision  
+* DevOps · Docker · AWS · CI/CD · Kubernetes
 
 
 
