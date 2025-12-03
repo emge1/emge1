@@ -1,6 +1,5 @@
 ## My interests:
 * Python · Django · Machine Learning · Computer Vision
-* Quality Assurance · Selenium · Pytest · Test Automation
 * DevOps · Docker · Cloud · CI/CD · Kubernetes
 
 
